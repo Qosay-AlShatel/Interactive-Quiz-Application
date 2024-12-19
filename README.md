@@ -20,7 +20,7 @@ A Python-based multiple-choice quiz application that generates quizzes dynamical
 
 ---
 
-## **Project Structure**
+## 📂 **Project Structure**
 ```
 Interactive-Quiz-Application/ 
 ├── main.py 
@@ -29,7 +29,9 @@ Interactive-Quiz-Application/
 └── venv/ # Virtual environment (ignored by Git)
 ```
 
-## **Installation**
+---
+
+## ⚙️ **Installation**
 ### Prerequisites
 - Python 3.8 or higher
 - An OpenAI API key
@@ -55,7 +57,7 @@ Interactive-Quiz-Application/
 
 ---
 
-## **Usage**
+## 🏃 **Usage**
 1. Run the application:
    ```bash
    streamlit run main.py
@@ -65,25 +67,25 @@ Interactive-Quiz-Application/
 
 ---
 
-##  Screenshots
-### Choose the topic of the quiz and number of questions
+## 📸 Screenshots
+- ### Choose the topic of the quiz and number of questions
 ![Choose Topic](./screenshots/ChooseTopic.png)
 
-### First Question
+- ### First Question
 ![First Question](./screenshots/First.png)
 
-### Second Question
+- ### Second Question
 ![Second Question](./screenshots/Second.png)
 
-### Third Question
+- ### Third Question
 ![Third Question](./screenshots/Third.png)
 
-### Score
+- ### Score
 ![Score](./screenshots/Score.png)
 
 ---
 
-## Contributions  
+## 🤝 Contributions  
 Contributions are welcome! Please fork this repository and open a pull request to add more features or fix issues.  
 
 
