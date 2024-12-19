@@ -67,13 +67,17 @@ Interactive-Quiz-Application/
 
 ##  Screenshots
 ### Choose the topic of the quiz and number of question
-![Choose Topic](./screenshots/ChooseTopicpng)
+![Choose Topic](./screenshots/ChooseTopic.png)
+
 ### First Question
-![First Question](./screenshots/first.png)
+![First Question](./screenshots/First.png)
+
 ### Second Question
-![Second Question](./screenshots/second.png)
+![Second Question](./screenshots/Second.png)
+
 ### Third Question
-![Third Question](./screenshots/third.png)
+![Third Question](./screenshots/Third.png)
+
 ### Score
 ![Score](./screenshots/Scpre.png)
 
@@ -82,6 +86,4 @@ Interactive-Quiz-Application/
 ## Contributions  
 Contributions are welcome! Please fork this repository and open a pull request to add more features or fix issues.  
 
-## License
-__MIT__ © _Qosay Al-Shatel_
 
