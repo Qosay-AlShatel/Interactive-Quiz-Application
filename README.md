@@ -66,7 +66,7 @@ Interactive-Quiz-Application/
 ---
 
 ##  Screenshots
-### Choose the topic of the quiz and number of question
+### Choose the topic of the quiz and number of questions
 ![Choose Topic](./screenshots/ChooseTopic.png)
 
 ### First Question
@@ -79,7 +79,7 @@ Interactive-Quiz-Application/
 ![Third Question](./screenshots/Third.png)
 
 ### Score
-![Score](./screenshots/Scpre.png)
+![Score](./screenshots/Score.png)
 
 ---
 
